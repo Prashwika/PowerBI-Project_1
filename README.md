@@ -1,2 +1,3 @@
 # PowerBI-Project_1
-Data visualization Project using Power BI
+Cleaning and Transforming the dataset "Data Professionals survey" in Power Query Editor and
+creating useful and informative insights using Power BI.
